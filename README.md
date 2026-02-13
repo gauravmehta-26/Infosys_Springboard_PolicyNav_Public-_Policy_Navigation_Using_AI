@@ -1,4 +1,4 @@
-# 🧭 PolicyNav – Public Policy Navigation Using AI
+# PolicyNav – Public Policy Navigation Using AI
 
 ## Milestone 1 – User Authentication System
 
@@ -81,4 +81,8 @@ Public URL: https://731d-34-11-85-163.ngrok-free.app/
 
 ### 🔁 Forgot Password Page
 
-![Forgot Password](screenshots/forgot.png)
+# ![Forgot Password](screenshots/forgot.png)
+
+# Infosys_Springboard_PolicyNav_Public-\_Policy_Navigation_Using_AI
+
+Gaurav Mehta | Flagship Module: PolicyNav – Public Policy Navigation Using AI
