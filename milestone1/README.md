@@ -1,5 +1,3 @@
-# PolicyNav – Public Policy Navigation Using AI
-
 ## Milestone 1 – User Authentication System
 
 ---
