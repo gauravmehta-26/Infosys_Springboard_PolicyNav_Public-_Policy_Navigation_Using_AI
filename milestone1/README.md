@@ -4,9 +4,9 @@
 
 ## 📌 Description
 
-In this milestone, we implemented a secure and robust user authentication system for **PolicyNav** using **Streamlit**, **JWT (JSON Web Tokens)**, and **SQLite**.
+In this milestone, we implemented a secure user authentication system for **PolicyNav** using **Streamlit**, **JWT (JSON Web Tokens)**, and **SQLite**.
 
-The system provides complete user management functionality including **Signup**, **Login**, **Forgot Password**, and a **JWT-protected Dashboard**, ensuring proper security practices and modern authentication workflows.
+The system provides functionality including **Signup**, **Login**, **Forgot Password**, **Reset Password** and a **JWT-protected Dashboard**, ensuring proper security practices and authentication workflows.
 
 Passwords and security answers are securely hashed using **bcrypt**, and protected routes are validated via **JWT token verification**.
 
@@ -14,18 +14,17 @@ Passwords and security answers are securely hashed using **bcrypt**, and protect
 
 ## ✅ Features Implemented
 
-**User Signup with Validation**
+**User Signup/Login with Validation**
 
 - Mandatory input checks
 - Email format validation
-- Strong password enforcement
+- Strong password (Alphanumeric)
 - Duplicate username/email prevention
 
 **Secure Login System**
 
 - Credential verification
 - JWT token generation on success
-- Proper error handling
 
 **Forgot Password Flow**
 
@@ -48,7 +47,6 @@ Passwords and security answers are securely hashed using **bcrypt**, and protect
 **SQLite Database Integration**
 
 - User data persistence
-- Unique constraints for safety
 
 **Ngrok Integration**
 
@@ -62,31 +60,19 @@ Ngrok website: ngrok.com
 
 ## ▶️ How to Run the Application
 
-### 1. First step
-
-```bash
-Open milestone_1.ipynb file
-```
-
-### 2. Install Dependencies
+### 1. Install Dependencies
 
 ```bash
 !pip install streamlit bcrypt PyJWT pyngrok
 ```
 
-### 3. Run Code
-
-```bash
-Run all the code cells in milestone_1.ipynb file
-```
-
-### 4. Streamlit
+### 2. Streamlit
 
 ```bash
 !streamlit run app.py &>/content/log.txt &
 ```
 
-### 5. Ngrok Public Link
+### 3. Use Ngrok to expose the app
 
 ```bash
 from pyngrok import ngrok
