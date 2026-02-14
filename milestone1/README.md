@@ -80,7 +80,7 @@ ngrok.set_auth_token("TOKEN")
 print(ngrok.connect(8501))
 ```
 
-Open the link
+Open the public link after running Ngrok, example link below:
 Public URL: https://731d-34-11-85-163.ngrok-free.app/
 
 ### 🔑 Login Page
