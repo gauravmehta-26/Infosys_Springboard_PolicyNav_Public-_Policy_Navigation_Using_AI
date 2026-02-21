@@ -137,6 +137,18 @@ Public URL: https://731d-34-11-85-163.ngrok-free.app/
 
 # ![Forgot Password](screenshots/forgot.png)
 
+### 🛡️ Admin Dashboard Page
+
+# ![Admin Dashboard](screenshots/admin.png)
+
+### 💬 OTP Verification Page
+
+# ![OTP Verification](screenshots/otp.png)
+
+### 📝 Readability Analyzer Page
+
+# ![Readability Analyzer](screenshots/readability.png)
+
 # Infosys_Springboard_PolicyNav_Public-\_Policy_Navigation_Using_AI
 
 Gaurav Mehta | Flagship Module: PolicyNav – Public Policy Navigation Using AI
