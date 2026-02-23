@@ -1,4 +1,4 @@
-## Milestone 2 – Advanced Authentication & Readability Analyzerr
+## Milestone 2 – Advanced Authentication & Readability Analyzer
 
 ---
 
