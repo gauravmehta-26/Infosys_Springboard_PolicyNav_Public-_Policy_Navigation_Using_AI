@@ -123,11 +123,11 @@ This ensures **better control and monitoring of the platform**.
 # Required Secret Keys
 
 The application requires the following **secret keys to run securely**:
-JWT_SECRET_KEY
-NGROK_AUTHTOKEN
-EMAIL_ID
-EMAIL_APP_PASSWORD
-ADMIN_EMAIL_ID
+JWT_SECRET_KEY <br>
+NGROK_AUTHTOKEN <br>
+EMAIL_ID <br>
+EMAIL_APP_PASSWORD <br>
+ADMIN_EMAIL_ID <br>
 ADMIN_PASSWORD
 
 These should be stored securely using **Google Colab Secrets**.
@@ -187,10 +187,10 @@ Ngrok will generate a **public URL** which can be opened in the browser to acces
 # Author
 
 **Infosys Springboard Virtual Internship – Batch 13**
-Velagada Devi Sri Prasad 
-Gaurav Mehtha 
-Bavithravanan CV
-Pooja K
+Velagada Devi Sri Prasad <br>
+Gaurav Mehtha <br>
+Bavithravanan CV <br>
+Pooja K <br>
 Arun Kumar Goshala
 
 Project: **PolicyNav – AI-Powered Public Policy Navigation**
