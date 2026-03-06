@@ -122,7 +122,7 @@ This ensures **better control and monitoring of the platform**.
 
 # Required Secret Keys
 
-The application requires the following **secret keys to run securely**:
+The application requires the following **secret keys to run securely**: <br>
 JWT_SECRET_KEY <br>
 NGROK_AUTHTOKEN <br>
 EMAIL_ID <br>
@@ -186,7 +186,7 @@ Ngrok will generate a **public URL** which can be opened in the browser to acces
 
 # Author
 
-**Infosys Springboard Virtual Internship – Batch 13**
+**Infosys Springboard Virtual Internship – Batch 13** <br>
 Velagada Devi Sri Prasad <br>
 Gaurav Mehtha <br>
 Bavithravanan CV <br>
