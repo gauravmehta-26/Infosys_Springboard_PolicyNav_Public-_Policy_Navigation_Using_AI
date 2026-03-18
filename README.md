@@ -457,55 +457,55 @@ The SQLite database (`policynav_users.db`) contains the following tables:
 
 ### 🔑 Login Page
 
-![Login Page](screenshots/login.jpeg)
+![Login Page](images/login.jpeg)
 
 ### 〰️ Dashboard
 
-![Login Page](screenshots/profile_avatar.jpeg)
+![Dashboard](images/profile_avatar.jpeg)
 
 ### 🔐 Admin
 
-![Signup Page](screenshots/admin.jpeg)
+![Admin](images/admin.jpeg)
 
 ### 🧭 Pending Registrations
 
-![Dashboard](screenshots/pending.jpeg)
+![Pending Registration](images/pending.jpeg)
 
 ### 🔒 Admin Security Monitor
 
-![Dashboard](screenshots/admin_security_monitor.jpeg)
+![Admin Security Monitor](images/admin_security_monitor.jpeg)
 
 ### 🔁 User Activity
 
-# ![Forgot Password](screenshots/user_activity.jpeg)
-# ![Forgot Password](screenshots/user_activity_export.jpeg)
+![User Activity](images/user_activity.jpeg)
+![User Activity](images/user_activity_export.jpeg)
 
 ### 🔍 Analytics Dashboard
 
-![Login Page](screenshots/analytics_dashboard.jpeg)
-![Login Page](screenshots/analytics_dashboard2.jpeg)
+![Login Page](images/analytics_dashboard.jpeg)
+![Login Page](images/analytics_dashboard2.jpeg)
 
 ### 🔐 Feedback
 
-![Signup Page](screenshots/feedback_analysis.jpeg)
-![Signup Page](screenshots/wordcloud.jpeg)
-![Signup Page](screenshots/feedback_analysis_export.jpeg)
+![Analytics Dashboard](images/feedback_analysis.jpeg)
+![Analytics Dashboard](images/wordcloud.jpeg)
+![Analytics Dashboard](images/feedback_analysis_export.jpeg)
 
 ### 📖 Readability Analyzer
 
-![Dashboard](screenshots/readability_analyzer.jpeg)
+![Readability Analyzer](images/readability_analyzer.jpeg)
 
 ### 🧾 Summarization
 
-![Dashboard](screenshots/summarization.jpeg)
+![Summarization](images/summarization.jpeg)
 
 ### 🎯 Gamification
 
-# ![Forgot Password](screenshots/gamification.jpeg)
+![Gamification](images/gamification.jpeg)
 
 ### 💹 Knowledge Graph
 
-![Signup Page](screenshots/knowledge_graph.jpeg)
+![Knowledge Graph](images/knowledge_graph.jpeg)
 
 ---
 
