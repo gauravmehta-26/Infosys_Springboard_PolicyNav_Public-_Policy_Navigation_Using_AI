@@ -457,23 +457,55 @@ The SQLite database (`policynav_users.db`) contains the following tables:
 
 ### 🔑 Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/login.jpeg)
 
-### 🔐 Signup Page
+### 〰️ Dashboard
 
-![Signup Page](screenshots/signup.png)
+![Login Page](screenshots/profile_avatar.jpeg)
 
-### 🧭 Dashboard
+### 🔐 Admin
 
-![Dashboard](screenshots/dashboard.png)
+![Signup Page](screenshots/admin.jpeg)
 
-### 🔒 Reset
+### 🧭 Pending Registrations
 
-![Dashboard](screenshots/reset.png)
+![Dashboard](screenshots/pending.jpeg)
 
-### 🔁 Forgot Password Page
+### 🔒 Admin Security Monitor
 
-# ![Forgot Password](screenshots/forgot.png)
+![Dashboard](screenshots/admin_security_monitor.jpeg)
+
+### 🔁 User Activity
+
+# ![Forgot Password](screenshots/user_activity.jpeg)
+# ![Forgot Password](screenshots/user_activity_export.jpeg)
+
+### 🔍 Analytics Dashboard
+
+![Login Page](screenshots/analytics_dashboard.jpeg)
+![Login Page](screenshots/analytics_dashboard2.jpeg)
+
+### 🔐 Feedback
+
+![Signup Page](screenshots/feedback_analysis.jpeg)
+![Signup Page](screenshots/wordcloud.jpeg)
+![Signup Page](screenshots/feedback_analysis_export.jpeg)
+
+### 📖 Readability Analyzer
+
+![Dashboard](screenshots/readability_analyzer.jpeg)
+
+### 🧾 Summarization
+
+![Dashboard](screenshots/summarization.jpeg)
+
+### 🎯 Gamification
+
+# ![Forgot Password](screenshots/gamification.jpeg)
+
+### 💹 Knowledge Graph
+
+![Signup Page](screenshots/knowledge_graph.jpeg)
 
 ---
 
