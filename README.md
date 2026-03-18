@@ -1,4 +1,4 @@
-# 🏛️ PolicyNav — AI-Powered Policy Intelligence Platform
+# 🏛️ Infosys_Springboard_PolicyNav_Public-\_Policy_Navigation_Using_AI
 
 > **Infosys Springboard Internship | Final Project**  
 > An end-to-end intelligent policy analysis system featuring secure authentication, NLP-powered Q&A, multi-language support, knowledge graphs, and rich admin/user dashboards — deployed via Streamlit + Docker.
@@ -155,10 +155,7 @@ NGROK_AUTHTOKEN     — For exposing Streamlit via ngrok tunnel
   - Flesch-Kincaid Grade Level
   - SMOG Index
   - Coleman-Liau Index
-  - Automated Readability Index (ARI)
-  - Dale-Chall Score
   - Gunning Fog Index
-  - Linsear Write Formula
 - **OTP fully integrated** into the registration and login flows
 - **Improved UI/UX** — Streamlit option-menu navigation, themed layouts, better form flows
 - **Document Upload** — PDF upload to Google Drive persisted storage
@@ -184,7 +181,7 @@ NGROK_AUTHTOKEN     — For exposing Streamlit via ngrok tunnel
   - Supports querying in multiple languages
 
 - **Multi-Language Summarization**
-  - `facebook/nllb-200-distilled-600M` handles translation across 200 languages
+  - `facebook/nllb-200-distilled-600M` handles translation across multiple languages
   - Users can select target language for summaries and Q&A responses
 
 - **Knowledge Graph**
@@ -204,8 +201,10 @@ NGROK_AUTHTOKEN     — For exposing Streamlit via ngrok tunnel
 
 | Model | Task | Source |
 |---|---|---|
-| `Qwen/Qwen2.5-1.5B-Instruct` | Q&A / Text generation | Hugging Face |
-| `facebook/nllb-200-distilled-600M` | Translation (200 languages) | Hugging Face |
+| `Qwen/Qwen2.5-1.5B-Instruct` | Q&A / Text generation | ![Hugging Face Logo](https://huggingface.co)
+ Hugging Face |
+| `facebook/nllb-200-distilled-600M` | Translation | ![Hugging Face Logo](https://huggingface.co)
+ Hugging Face |
 | `all-MiniLM-L6-v2` | Sentence embeddings for retrieval | sentence-transformers |
 | `en_core_web_sm` | NER / Entity extraction | spaCy |
 
@@ -312,7 +311,7 @@ app.py              — Main Streamlit application
 auth.py             — Authentication: JWT, OTP, lockout, password history
 db.py               — SQLite database schema and queries
 config.py           — App-wide configuration constants
-readability.py      — Readability metrics wrapper
+readability.py      — Readability metrics 
 vector_store.py     — FAISS document ingestion and retrieval
 nlp_engine.py       — Qwen2.5 Q&A + NLLB translation
 knowledge_graph.py  — spaCy NER + NetworkX + PyVis graph
@@ -514,5 +513,3 @@ Gaurav Mehtha <br>
 Junaid Bin Riyaz <br>
 Prapti Nikam <br>
 Srinivasa Rajan M
-
-# Infosys_Springboard_PolicyNav_Public-\_Policy_Navigation_Using_AI
