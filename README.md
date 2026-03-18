@@ -478,18 +478,18 @@ The SQLite database (`policynav_users.db`) contains the following tables:
 ### 🔁 User Activity
 
 ![User Activity](images/user_activity.jpeg)
-![User Activity](images/user_activity_export.jpeg)
+![User Activity Export](images/user_activity_export.jpeg)
 
 ### 🔍 Analytics Dashboard
 
-![Login Page](images/analytics_dashboard.jpeg)
-![Login Page](images/analytics_dashboard2.jpeg)
+![Analytics Dashboard](images/analytics_dashboard.jpeg)
+![Analytics Dashboard2](images/analytics_dashboard2.jpeg)
 
 ### 🔐 Feedback
 
-![Analytics Dashboard](images/feedback_analysis.jpeg)
-![Analytics Dashboard](images/wordcloud.jpeg)
-![Analytics Dashboard](images/feedback_analysis_export.jpeg)
+![Feedback](images/feedback_analysis.jpeg)
+![WordCloud](images/wordcloud.jpeg)
+![Feedback Export](images/feedback_analysis_export.jpeg)
 
 ### 📖 Readability Analyzer
 
