@@ -24,13 +24,13 @@
 
 ## Project Overview
 
-**PolicyNav** is a full-stack, AI-powered web application that helps citizens, researchers, and policy analysts navigate complex government policy documents with ease. It combines Retrieval-Augmented Generation (RAG), multilingual translation, knowledge graph visualization, readability analysis, and a complete user management system — all in a single Streamlit application hosted via Google Colab + Ngrok.
+**PolicyNav** is a AI based web application that helps citizens, researchers, and policy analysts navigate complex government policy documents with ease. It combines Retrieval-Augmented Generation (RAG), multilingual translation, knowledge graph visualization, readability analysis, and a complete user management system — all in a single Streamlit application hosted via Google Colab + Ngrok.
 
 ---
 
 ## What's New in Milestone 4
 
-Milestone 4 integrates all new enterprise-grade features on top of the existing Milestone 3 codebase.
+Milestone 4 integrates all new enterprise-grade features on top of the existing Milestone 3.
 
 ### 🛡️ Admin Dashboard (Management & Analytics)
 | Feature | Details |
@@ -254,49 +254,6 @@ After OTP-verified login, regular users land on their personal dashboard.
 | **👤 Profile** | Upload/change avatar, update email (OTP-verified), change password, view badges and login streak. |
 | **📅 Deadlines** | Save policy deadlines extracted from documents. |
 | **⭐ Feedback** | Rate and comment on any feature. |
-
-### Gamification
-Points are awarded for actions across the app:
-
-| Action | Points |
-|---|---|
-| Daily login | +5 |
-| RAG search | +3 |
-| Summarization | +3 |
-| Knowledge graph | +2 |
-| Feedback submission | +2 |
-| 7-day streak bonus | +20 |
-| 30-day streak bonus | +50 |
-
-Badges are unlocked automatically when thresholds are met (e.g., "First Search", "Explorer", "Policy Master").
-
----
-
-## Database Schema
-
-The SQLite database (`policynav_users.db`) contains the following tables:
-
-| Table | Purpose |
-|---|---|
-| `users` | Registered user accounts (username, email, password hash, avatar, admin flag, online status) |
-| `pending_registrations` | Re-registration requests awaiting admin approval |
-| `deleted_accounts` | Tombstone records of deleted email addresses |
-| `activity_log` | Every AI interaction (section, input, output, timestamp) |
-| `feedback` | User ratings and comments per feature section |
-| `deadlines` | User-saved policy deadlines |
-| `user_points` | XP total, login streak, badges (JSON), last login date |
-| `points_log` | Audit trail of every point-earning event |
-
----
-
-## Milestone History
-
-| Milestone | Key Deliverables |
-|---|---|
-| **M1** | Core RAG pipeline: document upload, FAISS indexing, Qwen answer generation |
-| **M2** | Authentication system: JWT, bcrypt, OTP email, account lockout |
-| **M3** | Knowledge Graph, Readability Analyzer, Multilingual support (NLLB-200), Feedback system |
-| **M4** *(current)* | Admin Dashboard with analytics & export, User profile with avatar & gamification, Leaderboard, Deadline tracker, Pending registration workflow |
 
 ---
 
