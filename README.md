@@ -454,7 +454,6 @@ The SQLite database (`policynav_users.db`) contains the following tables:
 | `created_at` | TEXT | Timestamp |
 
 ---
-
 ### 🔑 Login Page
 
 ![Login Page](images/login.jpeg)
@@ -478,7 +477,6 @@ The SQLite database (`policynav_users.db`) contains the following tables:
 ### 🔁 User Activity
 
 ![User Activity](images/user_activity.jpeg)
-![User Activity Export](images/user_activity_export.jpeg)
 
 ### 🔍 Analytics Dashboard
 
@@ -506,7 +504,6 @@ The SQLite database (`policynav_users.db`) contains the following tables:
 ### 💹 Knowledge Graph
 
 ![Knowledge Graph](images/knowledge_graph.jpeg)
-
 ---
 
 # Author
