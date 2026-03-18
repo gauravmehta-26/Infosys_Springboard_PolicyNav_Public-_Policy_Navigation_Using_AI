@@ -257,4 +257,28 @@ After OTP-verified login, regular users land on their personal dashboard.
 
 ---
 
-*Built with ❤️ for the Infosys Springboard Internship Program.*
+### 🔑 Login Page
+
+![Login Page](screenshots/login.png)
+
+### 🔐 Signup Page
+
+![Signup Page](screenshots/signup.png)
+
+### 🧭 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### 🔒 Reset
+
+![Dashboard](screenshots/reset.png)
+
+### 🔁 Forgot Password Page
+
+# ![Forgot Password](screenshots/forgot.png)
+
+---
+
+# Infosys_Springboard_PolicyNav_Public-\_Policy_Navigation_Using_AI
+
+Gaurav Mehta | Flagship Module: PolicyNav – Public Policy Navigation Using AI
