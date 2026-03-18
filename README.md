@@ -477,4 +477,13 @@ The SQLite database (`policynav_users.db`) contains the following tables:
 
 ---
 
+# Author
+
+**Infosys Springboard Virtual Internship – Batch 13** <br>
+Bhavithravanan C A <br>
+Gaurav Mehtha <br>
+Junaid Bin Riyaz <br>
+Prapti Nikam <br>
+Srinivasa Rajan M
+
 # Infosys_Springboard_PolicyNav_Public-\_Policy_Navigation_Using_AI
