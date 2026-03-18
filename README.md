@@ -455,11 +455,26 @@ The SQLite database (`policynav_users.db`) contains the following tables:
 
 ---
 
-## 👨‍💻 Author
+### 🔑 Login Page
 
-**Infosys Springboard Internship**  
-Built milestone by milestone, integrating each layer into a cohesive AI-powered policy intelligence platform.
+![Login Page](screenshots/login.png)
+
+### 🔐 Signup Page
+
+![Signup Page](screenshots/signup.png)
+
+### 🧭 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### 🔒 Reset
+
+![Dashboard](screenshots/reset.png)
+
+### 🔁 Forgot Password Page
+
+# ![Forgot Password](screenshots/forgot.png)
 
 ---
 
-*PolicyNav — Making Policy Documents Intelligent, Accessible & Multilingual.*
+# Infosys_Springboard_PolicyNav_Public-\_Policy_Navigation_Using_AI
