@@ -79,7 +79,7 @@ Milestone 4 integrates all new enterprise-grade features on top of the existing 
 
 ### 🌐 Multilingual Support
 - Powered by **facebook/nllb-200-distilled-600M** translation model
-- Supported languages: **English, Hindi, Tamil, Kannada, Telugu, Marathi, Bengali**
+- Supported languages: **English, French, Japanese, German, Hindi, Assamese, Bhojpuri, Gujarati, Kashmiri, Maithili, Malayalam, Meitei, Nepali, Odia, Punjabi, Sanskrit, Sindhi, Urdu, Tamil, Kannada, Telugu, Marathi, Bengali**
 - Ask questions in any language, receive answers in the same language
 
 ### 📄 Document Summarization
