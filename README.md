@@ -92,7 +92,7 @@ The project was built incrementally over **4 milestones** during the Infosys Spr
 | 📧 OTP Verification | Email-based one-time password for login & registration |
 | 🔒 Account Lockout | Auto-lock after 3 failed attempts for 5 minutes |
 | 🔑 Forgot Password | Secure reset flow with password history enforcement (last 3) |
-| 📊 Readability Dashboard | 8+ readability metrics (Flesch, SMOG, ARI, etc.) per document |
+| 📊 Readability Dashboard | 5 readability metrics (Flesch, SMOG, Coleman, etc.) per document |
 | 🤖 Q&A Engine | Retrieval-Augmented Generation (RAG) over uploaded PDFs |
 | 🌍 Multi-Language Support | Query and summarize in multiple languages via NLLB-200 |
 | 🕸️ Knowledge Graph | Interactive entity & relationship visualization using PyVis |
