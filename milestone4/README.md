@@ -281,4 +281,11 @@ After OTP-verified login, regular users land on their personal dashboard.
 
 # Infosys_Springboard_PolicyNav_Public-\_Policy_Navigation_Using_AI
 
-Gaurav Mehta | Flagship Module: PolicyNav – Public Policy Navigation Using AI
+# Author
+
+**Infosys Springboard Virtual Internship – Batch 13** <br>
+Bhavithravanan C A <br>
+Gaurav Mehtha <br>
+Junaid Bin Riyaz <br>
+Prapti Nikam <br>
+Srinivasa Rajan M
