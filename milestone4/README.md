@@ -256,36 +256,47 @@ After OTP-verified login, regular users land on their personal dashboard.
 | **⭐ Feedback** | Rate and comment on any feature. |
 
 ---
+### 〰️ Dashboard
 
-### 🔑 Login Page
+![Dashboard](images/profile_avatar.jpeg)
 
-![Login Page](screenshots/login.png)
+### 🔐 Admin
 
-### 🔐 Signup Page
+![Admin](images/admin.jpeg)
 
-![Signup Page](screenshots/signup.png)
+### 🧭 Pending Registrations
 
-### 🧭 Dashboard
+![Pending Registration](images/pending.jpeg)
 
-![Dashboard](screenshots/dashboard.png)
+### 🔒 Admin Security Monitor
 
-### 🔒 Reset
+![Admin Security Monitor](images/admin_security_monitor.jpeg)
 
-![Dashboard](screenshots/reset.png)
+### 🔁 User Activity
 
-### 🔁 Forgot Password Page
+![User Activity](images/user_activity.jpeg)
 
-# ![Forgot Password](screenshots/forgot.png)
+### 🔍 Analytics Dashboard
 
+![Analytics Dashboard](images/analytics_dashboard.jpeg)
+![Analytics Dashboard2](images/analytics_dashboard2.jpeg)
+
+### 🔐 Feedback
+
+![Feedback](images/feedback_analysis.jpeg)
+![WordCloud](images/wordcloud.jpeg)
+![Feedback Export](images/feedback_analysis_export.jpeg)
+
+### 🎯 Gamification
+
+![Gamification](images/gamification.jpeg)
 ---
-
-# Infosys_Springboard_PolicyNav_Public-\_Policy_Navigation_Using_AI
 
 # Author
 
 **Infosys Springboard Virtual Internship – Batch 13** <br>
-Bhavithravanan C A <br>
-Gaurav Mehtha <br>
-Junaid Bin Riyaz <br>
-Prapti Nikam <br>
-Srinivasa Rajan M
+Bhavithravanan C A - User control in admin dashboard and identity in user dashboard <br>
+Gaurav Mehtha - Data Visualization: Plot interactive charts <br>
+Junaid Bin Riyaz - User Dashboard: Security and Ui/Ux <br>
+Prapti Nikam - User Engagement Gamification leaderboard unique feature and Activity Tracking <br>
+Srinivasa Rajan M - Admin Dashboard, Feedback analysis, Added 20+ multi Lingual support, News & Updates from admin Dashboard for Users.
