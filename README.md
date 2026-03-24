@@ -506,8 +506,8 @@ The SQLite database (`policynav_users.db`) contains the following tables:
 # Author
 
 **Infosys Springboard Virtual Internship – Batch 13** <br>
-Bhavithravanan C A <br>
-Gaurav Mehtha <br>
-Junaid Bin Riyaz <br>
-Prapti Nikam <br>
-Srinivasa Rajan M
+Bhavithravanan C A - User control in admin dashboard and identity in user dashboard <br>
+Gaurav Mehtha - Data Visualization: Plot interactive charts <br>
+Junaid Bin Riyaz - User Dashboard: Security and Ui/Ux <br>
+Prapti Nikam - User Engagement Gamification leaderboard unique feature and Activity Tracking <br>
+Srinivasa Rajan M - Admin Dashboard, Feedback analysis, Added 20+ multi Lingual support, News & Updates from admin Dashboard for Users.
